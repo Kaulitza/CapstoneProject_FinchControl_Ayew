@@ -1,0 +1,12 @@
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.csprojAssemblyReference.cache
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.Form_FinchControl.resources
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.Properties.Resources.resources
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.csproj.GenerateResource.cache
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\bin\Debug\FinchControl_Ayew.exe.config
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\bin\Debug\FinchControl_Ayew.exe
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\bin\Debug\FinchControl_Ayew.pdb
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\bin\Debug\FinchAPI.dll
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\bin\Debug\HidSharp.dll
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.csproj.CopyComplete
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.exe
+C:\Users\miche\Documents\School\CIT110\FinchControl_Ayew\FinchControl_Ayew\obj\Debug\FinchControl_Ayew.pdb
