@@ -70,46 +70,50 @@
             // 
             // btn_Forward
             // 
+            this.btn_Forward.BackColor = System.Drawing.Color.SpringGreen;
             this.btn_Forward.Location = new System.Drawing.Point(319, 185);
             this.btn_Forward.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_Forward.Name = "btn_Forward";
             this.btn_Forward.Size = new System.Drawing.Size(140, 109);
             this.btn_Forward.TabIndex = 1;
             this.btn_Forward.Text = "Forward";
-            this.btn_Forward.UseVisualStyleBackColor = true;
+            this.btn_Forward.UseVisualStyleBackColor = false;
             this.btn_Forward.Click += new System.EventHandler(this.btn_Forward_Click_1);
             // 
             // btn_Backward
             // 
+            this.btn_Backward.BackColor = System.Drawing.Color.SpringGreen;
             this.btn_Backward.Location = new System.Drawing.Point(319, 419);
             this.btn_Backward.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_Backward.Name = "btn_Backward";
             this.btn_Backward.Size = new System.Drawing.Size(140, 109);
             this.btn_Backward.TabIndex = 2;
             this.btn_Backward.Text = "Backward";
-            this.btn_Backward.UseVisualStyleBackColor = true;
+            this.btn_Backward.UseVisualStyleBackColor = false;
             this.btn_Backward.Click += new System.EventHandler(this.btn_Backward_Click_1);
             // 
             // btn_Right
             // 
+            this.btn_Right.BackColor = System.Drawing.Color.SpringGreen;
             this.btn_Right.Location = new System.Drawing.Point(465, 302);
             this.btn_Right.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_Right.Name = "btn_Right";
             this.btn_Right.Size = new System.Drawing.Size(140, 109);
             this.btn_Right.TabIndex = 3;
             this.btn_Right.Text = "Right";
-            this.btn_Right.UseVisualStyleBackColor = true;
+            this.btn_Right.UseVisualStyleBackColor = false;
             this.btn_Right.Click += new System.EventHandler(this.btn_Right_Click_1);
             // 
             // btn_Left
             // 
+            this.btn_Left.BackColor = System.Drawing.Color.SpringGreen;
             this.btn_Left.Location = new System.Drawing.Point(173, 302);
             this.btn_Left.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_Left.Name = "btn_Left";
             this.btn_Left.Size = new System.Drawing.Size(140, 109);
             this.btn_Left.TabIndex = 4;
             this.btn_Left.Text = "Left";
-            this.btn_Left.UseVisualStyleBackColor = true;
+            this.btn_Left.UseVisualStyleBackColor = false;
             this.btn_Left.Click += new System.EventHandler(this.btn_Left_Click_1);
             // 
             // label_Move
